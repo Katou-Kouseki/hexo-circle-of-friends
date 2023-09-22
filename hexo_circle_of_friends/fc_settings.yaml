@@ -68,9 +68,9 @@ GITHUB_FRIENDS_LINKS: {
 # block site list
 # 添加屏蔽站点，支持正则表达式
 BLOCK_SITE: [
-    https://roozen.top,
-    https://0206.ink,
-    https://kunkunyu.com,
+    https://roozen.top/,
+    https://0206.ink/,
+    https://kunkunyu.com/,
 #    https://example.com/, # 屏蔽 https://example.com/
 #    .*\.com,  # 含有.com的全部屏蔽
 #    ^http://,  # http开头的全部屏蔽
